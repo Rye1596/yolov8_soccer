@@ -10,7 +10,7 @@ torchvision>=0.15.0
 ultralytics>=8.0.0
 
 # 计算机视觉
-opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
 supervision>=0.14.0
 
 # 数据处理
